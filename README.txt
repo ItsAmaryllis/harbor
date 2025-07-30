@@ -1,31 +1,36 @@
-# Harbor 🌊
+HARBOR 🌊
+=========
 
 A curated collection of pirate sites with a clean, minimal interface.
 
-## Live Site
 
-Visit [Harbor](https://itsamaryllis.github.io/harbor/)
+LIVE SITE
+---------
+🌐 https://itsamaryllis.github.io/harbor/
 
-## Features
 
+FEATURES
+--------
 - Clean, responsive design
-- Organized by categories
-  - Movies & Shows
-  - PC Games
-  - Mobile Games
-  - Anime
+- Organized by category:
+    • Movies & Shows
+    • PC Games
+    • Mobile Games
+    • Anime
 
-## Contributing
 
-Want to add a site? Feel free to:
+CONTRIBUTING
+------------
+Wanna add a site?
 
-1. Fork the repository
-2. Add your site to the appropriate category
-3. Submit a pull request
+  1. Fork the repo
+  2. Add your site under the right category
+  3. Submit a pull request
 
-Please maintain the existing style and format when adding new sites.
+Pls keep the existing format & vibe. Be nice. Be neat.
 
-## Note
 
-For educational purposes only.
-
+NOTE
+----
+⚠️ For educational purposes only.
+Don't be a dingus.
